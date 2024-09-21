@@ -1,0 +1,6 @@
+pandas
+matplotlib
+seaborn
+spacy
+wordcloud
+numpy==1.26.4
