@@ -4,3 +4,5 @@ seaborn
 spacy
 wordcloud
 numpy==1.26.4
+scikit-learn
+textblob
