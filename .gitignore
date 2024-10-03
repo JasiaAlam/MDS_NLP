@@ -163,3 +163,15 @@ cython_debug/
 .DS_Store
 data/__MACOSX/._glove.6B.100d.txt
 data/glove.6B.100d.txt
+glove.png
+label_encoder.pkl
+narrative_word2vec.model
+sbert.png
+text_classification_model.pkl
+tfidf.png
+w2vec.png
+
+data/data_narrative_vector.csv
+
+data/glove.6B.100d.txt.zip
+
