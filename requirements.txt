@@ -6,3 +6,6 @@ wordcloud
 numpy==1.26.4
 scikit-learn
 textblob
+scipy==1.10.1
+gensim
+sentence-transformers
